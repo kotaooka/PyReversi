@@ -9,3 +9,5 @@ if not exist PyReversi.py (
     exit /b
 )
 python PyReversi.py
+
+pause
